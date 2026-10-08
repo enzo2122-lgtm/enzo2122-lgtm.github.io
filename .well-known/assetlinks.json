@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "io.github.enzo2122_lgtm.twa",
-    "sha256_cert_fingerprints": ["13:DB:C9:1A:CD:6E:0C:AF:C6:8A:E5:BC:95:23:95:0D:BD:5C:30:1F:59:F3:E3:83:BD:05:FE:E1:2C:85:76:5B"]
+    "package_name": "fr.falraincy.app",
+    "sha256_cert_fingerprints": ["43:AF:39:37:55:86:0C:F3:71:5E:D9:65:3A:50:FB:1B:4D:38:BA:DD:79:E0:77:32:53:C6:78:AF:85:77:3B:C9"]
   }
 }]
