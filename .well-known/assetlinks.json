@@ -1,8 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "fr.falraincy.app",
-    "sha256_cert_fingerprints": ["43:AF:39:37:55:86:0C:F3:71:5E:D9:65:3A:50:FB:1B:4D:38:BA:DD:79:E0:77:32:53:C6:78:AF:85:77:3B:C9"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.falraincy.app",
+      "sha256_cert_fingerprints": [
+        "43:AF:39:37:55:86:0C:F3:71:5E:D9:65:3A:50:FB:1B:4D:38:BA:DD:79:E0:77:32:53:C6:78:AF:85:77:3B:C9",
+        "60:70:6A:A5:B5:C4:13:EE:FD:DD:A2:6A:14:91:92:2D:6D:88:28:FC:87:EF:23:FF:90:3C:13:85:BC:AA:2F:6A"
+      ]
+    }
   }
-}]
+]
